@@ -1,0 +1,9 @@
+Simple python script to create archives out of each sub-folder for a given
+folder.
+
+Usage:
+    python archive_folders.py SRC_DIR
+
+SRC_DIR is the directory you wish to create archives for. Defaults to the current directory.
+
+Creates all archives within the current directory.
